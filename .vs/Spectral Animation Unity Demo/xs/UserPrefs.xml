@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{9E66FB34-C3D8-0F4A-0E8A-8B376A2FEB70}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SkeletonController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NN_Models.cs" Line="49" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/DataReader.cs" />
+      <File FileName="Assets/Scripts/SkeletonController.cs" Line="56" Column="25" />
+      <File FileName="Assets/Scripts/Util.cs" />
+      <File FileName="Assets/Scripts/Trajectory.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/FootIK.cs" />
+      <File FileName="Assets/Scripts/InputController.cs" />
+      <File FileName="Assets/Scripts/LatentPCA.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spectral Animation Unity Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SkeletonController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="73d20f8a-62f5-4dc7-904a-d605c6ba3359" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.Exception" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
